@@ -1,0 +1,7 @@
+/root/cli/build/CMakeFiles/install.dir
+/root/cli/build/CMakeFiles/list_install_components.dir
+/root/cli/build/CMakeFiles/rebuild_cache.dir
+/root/cli/build/CMakeFiles/netconf_clientd.dir
+/root/cli/build/CMakeFiles/install/strip.dir
+/root/cli/build/CMakeFiles/install/local.dir
+/root/cli/build/CMakeFiles/edit_cache.dir
